@@ -15,6 +15,7 @@ class DoorPanel {
                     第六步：检查门是否成功关闭
                     第七步：检查门关闭后其他系统是否正常
                     */
+
                     System.out.println(door + "is closed");
                 });
     }
